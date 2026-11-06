@@ -3,39 +3,37 @@
 <div align="center">
   <img src="assets/profile-header.svg" alt="Arian Taheri — Product Designer" width="100%" />
   <p>
-    <a href="https://ariantaheri.ir">Portfolio</a>
+    <a href="https://ariantaheri.framer.ai/">Portfolio</a>
     &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/ariantaheri">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.behance.net/ariantaheri">Behance</a>
+    <a href="https://www.linkedin.com/in/ariantaheri/" title="LinkedIn" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/6B7280" alt="LinkedIn" width="18" height="18" /></a>
+    &nbsp;
+    <a href="https://www.figma.com/@ariantaheri" title="Figma" aria-label="Figma"><img src="https://cdn.simpleicons.org/figma/6B7280" alt="Figma" width="18" height="18" /></a>
+    &nbsp;
+    <a href="https://dribbble.com/ariantaheri" title="Dribbble" aria-label="Dribbble"><img src="https://cdn.simpleicons.org/dribbble/6B7280" alt="Dribbble" width="18" height="18" /></a>
+    &nbsp;
+    <a href="https://medium.com/@ariantaheri" title="Medium" aria-label="Medium"><img src="https://cdn.simpleicons.org/medium/6B7280" alt="Medium" width="18" height="18" /></a>
+    &nbsp;
+    <a href="https://x.com/ariantaheri21" title="X" aria-label="X"><img src="https://cdn.simpleicons.org/x/6B7280" alt="X" width="18" height="18" /></a>
   </p>
 </div>
 
 ---
 
-I'm a Product Designer at **Zoodex**, working across product discovery, UX research, interaction design, and design systems.
+I'm a Product Designer focused on turning complex user and business problems into clear, intuitive digital experiences.
 
-I turn complex user and business problems into clear, useful experiences. My process combines research, product data, thoughtful interaction design, and continuous improvement.
+My work spans product discovery, UX research, interaction design, and design systems. I combine user insights, product data, and thoughtful execution to improve products from idea to implementation.
 
-## Focus
+## Areas of focus
 
-- **Product design:** problem framing, user flows, information architecture, and prototyping
-- **UX research:** user behavior, qualitative insights, and usability testing
-- **Design systems:** scalable components, design tokens, and documentation
-- **Product quality:** accessibility, experimentation, and measurable outcomes
-
-## Selected work
-
-**[Football-Inspired File Upload](https://github.com/ariantaheri/football-file-upload)**  
-An interaction-design experiment that reimagines a conventional file picker as a small football game.
-
-## Recognition
-
-WorldSkills Lyon 2024 — Medallion for Excellence · WorldSkills Brisbane 2025 — 4th place and Excellence Medal · National Skills Competition — Gold Medal
+- Product discovery and strategy
+- UX research and usability testing
+- Information architecture and interaction design
+- Design systems and design tokens
+- Accessibility and data-informed iteration
 
 ## Tools
 
-Figma · FigJam · Prototyping · Design Systems · HTML · CSS · JavaScript
+Figma · FigJam · Prototyping · HTML · CSS · JavaScript
 
 ---
 
