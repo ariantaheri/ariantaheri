@@ -1,68 +1,44 @@
-<!-- Profile README for https://github.com/ariantaheri -->
+<!-- Profile README: https://github.com/ariantaheri -->
 
 <div align="center">
-  <img src="assets/profile-header.svg" alt="Arian Taheri — Product Design, UX and Digital Craft" width="100%" />
-
+  <img src="assets/profile-header.svg" alt="Arian Taheri — Product Designer" width="100%" />
   <p>
-    <a href="https://ariantaheri.ir"><strong>Portfolio</strong></a>
+    <a href="https://ariantaheri.ir">Portfolio</a>
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/ariantaheri">LinkedIn</a>
     &nbsp;·&nbsp;
     <a href="https://www.behance.net/ariantaheri">Behance</a>
-    &nbsp;·&nbsp;
-    <a href="https://dribbble.com/ariantaheri">Dribbble</a>
   </p>
 </div>
 
 ---
 
-## About
+I'm a Product Designer at **Zoodex**, working across product discovery, UX research, interaction design, and design systems.
 
-I'm a Product Designer at **Zoodex**, focused on turning complex user and business problems into clear, useful digital experiences.
+I turn complex user and business problems into clear, useful experiences. My process combines research, product data, thoughtful interaction design, and continuous improvement.
 
-My approach combines product thinking, UX research, behavioral insights, interaction design, and visual craft. I care about the details behind great products: understanding the problem, making informed decisions, creating consistent systems, and measuring what changes for users.
+## Focus
 
-I also enjoy building small interactive experiments that explore the intersection of design and technology.
-
-## What I Work On
-
-- **Product discovery:** problem framing, opportunity mapping, and product thinking
-- **UX research:** user interviews, behavioral analysis, and usability testing
-- **Experience design:** information architecture, user flows, interaction design, and prototyping
+- **Product design:** problem framing, user flows, information architecture, and prototyping
+- **UX research:** user behavior, qualitative insights, and usability testing
 - **Design systems:** scalable components, design tokens, and documentation
-- **Product improvement:** accessibility, experimentation, and data-informed decisions
+- **Product quality:** accessibility, experimentation, and measurable outcomes
 
-## Selected Work
+## Selected work
 
-### ⚽ Football-Inspired File Upload
-
-A playful experiment that turns a familiar file uploader into a mini football game. Pick a file, aim, shoot, and beat the goalkeeper to complete the experience.
-
-[Explore the project](https://github.com/ariantaheri/football-file-upload)
+**[Football-Inspired File Upload](https://github.com/ariantaheri/football-file-upload)**  
+An interaction-design experiment that reimagines a conventional file picker as a small football game.
 
 ## Recognition
 
-- **WorldSkills Lyon 2024** — Medallion for Excellence, Graphic Design Technology
-- **WorldSkills Brisbane 2025** — 4th place, Graphic Design Technology; Excellence Medal
-- **National Skills Competition** — Gold Medal, Graphic Design Technology
+WorldSkills Lyon 2024 — Medallion for Excellence · WorldSkills Brisbane 2025 — 4th place and Excellence Medal · National Skills Competition — Gold Medal
 
-## Toolkit
+## Tools
 
-**Product & UX**  
-Figma · FigJam · Prototyping · UX Research · Usability Testing · Design Systems · Design Tokens
+Figma · FigJam · Prototyping · Design Systems · HTML · CSS · JavaScript
 
-**Building & Experimenting**  
-HTML · CSS · JavaScript · Git · GitHub
+---
 
-## Connect
-
-I'm always open to thoughtful conversations, creative collaborations, and opportunities to make digital products better.
-
-- Website: [ariantaheri.ir](https://ariantaheri.ir)
-- LinkedIn: [linkedin.com/in/ariantaheri](https://www.linkedin.com/in/ariantaheri)
-- Behance: [behance.net/ariantaheri](https://www.behance.net/ariantaheri)
-- Dribbble: [dribbble.com/ariantaheri](https://dribbble.com/ariantaheri)
-
-<div align="center">
-  <sub>Thoughtful design. Meaningful details. Better products.</sub>
-</div>
+<p align="center">
+  <sub>Designing thoughtful, useful digital products.</sub>
+</p>
