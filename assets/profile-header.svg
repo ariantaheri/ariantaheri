@@ -1,10 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
   <title id="title">Arian Taheri — Product Designer</title>
-  <desc id="desc">A minimal, light editorial banner with the name Arian Taheri and the title Product Designer.</desc>
-  <rect width="1200" height="240" fill="#F7F8FA"/>
-  <rect x="0" y="0" width="8" height="240" fill="#3A4BA8"/>
-  <rect x="88" y="55" width="44" height="4" rx="2" fill="#3A4BA8"/>
-  <text x="88" y="137" fill="#17191F" font-family="Inter, Arial, Helvetica, sans-serif" font-size="64" font-weight="650" letter-spacing="-2.2">Arian Taheri</text>
-  <text x="92" y="181" fill="#626978" font-family="Inter, Arial, Helvetica, sans-serif" font-size="22" font-weight="400" letter-spacing=".2">Product Designer</text>
-  <line x1="88" y1="215" x2="1112" y2="215" stroke="#E1E4EA" stroke-width="1"/>
+  <desc id="desc">A minimal black banner with the name Arian Taheri and the title Product Designer, framed by rounded corners.</desc>
+  <rect x="1" y="1" width="1198" height="238" rx="24" fill="#0B0B0C" stroke="#242426" stroke-width="2"/>
+  <text x="80" y="124" fill="#FFFFFF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="64" font-weight="650" letter-spacing="-2.4">Arian Taheri</text>
+  <text x="84" y="171" fill="#A1A1AA" font-family="Inter, Arial, Helvetica, sans-serif" font-size="22" font-weight="400" letter-spacing=".3">Product Designer</text>
 </svg>
