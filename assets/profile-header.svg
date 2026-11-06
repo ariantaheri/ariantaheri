@@ -1,0 +1,35 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#202B55"/>
+      <stop offset="1" stop-color="#3A4BA8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="760" y1="55" x2="1080" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFCA58"/>
+      <stop offset="1" stop-color="#FF8A5B"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="blur" x="690" y="-80" width="600" height="520" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1000" cy="170" r="155" fill="#6478FF" fill-opacity=".26" filter="url(#blur)"/>
+  <circle cx="1000" cy="180" r="112" stroke="#FFFFFF" stroke-opacity=".20" stroke-width="1.5"/>
+  <circle cx="1000" cy="180" r="78" stroke="#FFFFFF" stroke-opacity=".18" stroke-width="1.5"/>
+  <path d="M850 180H1150M1000 30V330" stroke="#FFFFFF" stroke-opacity=".14" stroke-dasharray="5 8"/>
+  <path d="M1000 90L1045 135L1028 198L972 222L940 165L1000 90Z" stroke="url(#accent)" stroke-width="3" fill="#FFCA58" fill-opacity=".08"/>
+  <circle cx="1000" cy="180" r="9" fill="url(#accent)"/>
+  <circle cx="850" cy="180" r="5" fill="#FFFFFF" fill-opacity=".7"/>
+  <circle cx="1150" cy="180" r="5" fill="#FFFFFF" fill-opacity=".7"/>
+  <text x="78" y="94" fill="#FFCA58" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">PRODUCT DESIGN • UX • DIGITAL CRAFT</text>
+  <text x="74" y="177" fill="#FFFFFF" font-family="Inter,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2">Arian Taheri</text>
+  <text x="80" y="224" fill="#D9E0FF" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="400">Designing useful experiences. Exploring how things work.</text>
+  <path d="M80 278H286" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="316" fill="#B9C4EF" font-family="Inter,Arial,sans-serif" font-size="14" letter-spacing="2">ARIANTAHERI.IR</text>
+  <text x="1116" y="316" fill="#B9C4EF" font-family="Inter,Arial,sans-serif" font-size="13" text-anchor="end" letter-spacing="2">DESIGN × TECHNOLOGY</text>
+</svg>
