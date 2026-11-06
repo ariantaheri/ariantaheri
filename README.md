@@ -5,7 +5,7 @@
   <p>
     <a href="https://ariantaheri.framer.ai/">Portfolio</a>
     &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/ariantaheri/" title="LinkedIn" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/6B7280" alt="LinkedIn" width="18" height="18" /></a>
+    <a href="https://www.linkedin.com/in/ariantaheri/" title="LinkedIn" aria-label="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" /></a>
     &nbsp;
     <a href="https://www.figma.com/@ariantaheri" title="Figma" aria-label="Figma"><img src="https://cdn.simpleicons.org/figma/6B7280" alt="Figma" width="18" height="18" /></a>
     &nbsp;
@@ -30,10 +30,6 @@ My work spans product discovery, UX research, interaction design, and design sys
 - Information architecture and interaction design
 - Design systems and design tokens
 - Accessibility and data-informed iteration
-
-## Tools
-
-Figma · FigJam · Prototyping · HTML · CSS · JavaScript
 
 ---
 
